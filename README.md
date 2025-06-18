@@ -7,22 +7,22 @@ An archiving program by Antoniy Elias Sverdrup
 
 © Anthony&Co. Media Production 2017-2025. All rights reserved.
 
-EggMaker: Create an EGG archive
+## EggMaker: Create an EGG archive
 
 Create a .BASKET file and pack files into multiple .EGG files with specified size.
 Files smaler than <size> will be joined into a single EGG, and files larger than
 <size> will be split across multiple eggs.
 
-Eggstractor: Open/Extract an EGG archive
+## Eggstractor: Open/Extract an EGG archive
 
 Open a .BASKET table-of contents and extract files from .EGG files associated with it.
 Even if some EGGs are missing, you can still extract files located in other EGGs
 
-Eggexutor: Extract contents of a single EGG, even if its associated BASKET file is lost
+## Eggexutor: Extract contents of a single EGG, even if its associated BASKET file is lost
 
 Open a single .EGG file and extract files from it using built-in table of contents.
 
-[Public beta WARNING]
+## [Public beta WARNING]
 
 This is a beta-version (unfinished version) of this software.
 
@@ -36,7 +36,7 @@ Please report encountered errors to www.github.com/A-Sverdrup/egg-archiver/issue
 
 [Public beta WARNING end]
 
-===EULA===
+# ===EULA===
 
 Sample text, replace later.
 
@@ -53,21 +53,21 @@ Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Ma
 
 © Anthony&Co. Media Production 2025. All rights reserved.
 
-Other licenses
+## Other licenses
 
-tk2 module: CC BY-ND
+### tk2 module: CC BY-ND
 This program integrates modified parts of tk2 source code instead of using tk2 library "as is".
 A special permission was received for integration of modified tk2 source code.
 tk2 utilities by Anthony&Co. Media Production.
 
-Misc code from GeneProt:
+### Misc code from GeneProt:
 This program reuses code of some GeneProt GUI elements.
 A special permission was received for integration of modified GeneProt source code.
 GeneProt © Anthony&Co. Media Production 2024-2025. All rights reserved.
 
-Python: PSF License Version 2
+### Python: PSF License Version 2
 This program was created using Python 3
 
-Microsoft Distributable Code:
+### Microsoft Distributable Code:
 This program is linked with and uses Microsoft Distributable Code,
 copyrighted by Microsoft Corporation.

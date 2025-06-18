@@ -1,4 +1,6 @@
 # egg-archiver
+![Image](https://github.com/user-attachments/assets/3802cac7-9f9c-4954-ad6d-8e21b1600a84)
+
 EGG Archiver
 
 "Don't put all your eggs into one basket!"

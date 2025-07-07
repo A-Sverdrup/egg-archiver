@@ -62,11 +62,6 @@ This program integrates modified parts of tk2 source code instead of using tk2 l
 A special permission was received for integration of modified tk2 source code.
 tk2 utilities by Anthony&Co. Media Production.
 
-### Misc code from GeneProt:
-This program reuses code of some GeneProt GUI elements.
-A special permission was received for integration of modified GeneProt source code.
-GeneProt © Anthony&Co. Media Production 2024-2025. All rights reserved.
-
 ### Python: PSF License Version 2
 This program was created using Python 3
 
